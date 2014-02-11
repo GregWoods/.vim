@@ -10,7 +10,7 @@ set wildmode=list:longest
 set nowrap
 set laststatus=2
 
-source $VIMRUNTIME/mswin.vi
+source $VIMRUNTIME/mswin.vim
 
 imap jk <Esc>
 
